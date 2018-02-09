@@ -37,6 +37,8 @@ public class CreateList {
 		//print the ele's of list
 		llist.printList();
 		
+		System.out.println("welcome");
+		
 
 	}
 
